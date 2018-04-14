@@ -1,5 +1,8 @@
-.title {
+/*.title {
   width: 100%;
   text-align: center;
   margin-bottom: 50px;
+}*/
+.cover{
+	background: url("https://www.mcvuk.com/.image/t_share/MTUzMDY4NzA3NzU1ODYwOTk5/marvel-heroes-2015-leadjpg.jpg");
 }
