@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Superman",
+    "image": "https://static.comicvine.com/uploads/scale_small/8/80111/5766160-actioncomics976-gary-frank.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 2,
+    "name": "Thor",
+    "image": "https://static.comicvine.com/uploads/scale_small/3/31666/5396930-thorunworth2016001-cov-38b58.jpg",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor"
+  },
+  {
+    "id": 3,
+    "name": "Hal Jordan",
+    "image": "https://static.comicvine.com/uploads/scale_small/3/31666/3703047-secret_origins_3_531f5d9ec45806.60423727.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 4,
+    "name": "Captain America",
+    "image": "https://static.comicvine.com/uploads/scale_small/3/31666/5052983-capasr2016001-eptingvar-18bdb.jpg",
+    "occupation": "Boy Genius",
+    "location": "A Secret Laboratory"
+  },
+  {
+    "id": 5,
+    "name": "Wally West",
+    "image": "https://static.comicvine.com/uploads/scale_small/10/100647/5514053-cquihjqxyae4ohk.jpg",
+    "occupation": "A Cowardly Dog",
+    "location": "Nowhere, Kansas"
+  },
+  {
+    "id": 6,
+    "name": " Kon-El",
+    "image": "https://static.comicvine.com/uploads/scale_small/10/100647/2869108-sb_cv20_2d6zilu8mg_.jpg",
+    "occupation": "Student",
+    "location": "Bluffington"
+  },
+  {
+    "id": 7,
+    "name": "Daredevil",
+    "image": "https://static.comicvine.com/uploads/scale_small/6/68065/6335305-5934933145-DYb8d.jpg",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "name": "Hulk",
+    "image": "https://static.comicvine.com/uploads/scale_small/14/140903/4127149-11.jpg",
+    "occupation": "Ladies Man",
+    "location": "Aron City"
+  },
+  {
+    "id": 9,
+    "name": "Alan Scott",
+    "image": "https://static.comicvine.com/uploads/scale_small/10/100647/5516293-society3.jpg",
+    "occupation": "Adventurer",
+    "location": "California"
+  },
+  {
+    "id": 10,
+    "name": "John Stewart",
+    "image": "https://static.comicvine.com/uploads/scale_small/4/46646/4575457-7128683111-GLLA_.jpg",
+    "occupation": "Cashier",
+    "location": "O-Town, California"
+  },
+  {
+    "id": 11,
+    "name": "Black Lighting",
+    "image": "https://static.comicvine.com/uploads/scale_small/0/77/460061-black_lightning_matthew_clark01.jpg",
+    "occupation": "Superhero",
+    "location": "Earth"
+  },
+  {
+    "id": 12,
+    "name": "Black Panther",
+    "image": "https://static.comicvine.com/uploads/scale_small/3/31666/5011137-blap2016001-cov-d6d2a.jpg",
+    "occupation": "Ahhhh! A Real Monster!",
+    "location": "Under a City Dump"
+  },
+  {
+    "id": 13,
+    "name": "Beta Ray Bill",
+    "image": "https://static.comicvine.com/uploads/scale_small/10/100647/6042974-beta_ray_bill_%28earth-616%29_from_unworthy_thor_vol_1_3_002.jpg",
+    "occupation": "Superhero",
+    "location": "Earth"
+  },
+  {
+    "id": 14,
+    "name": "Mon-El",
+    "image": "https://static.comicvine.com/uploads/scale_small/10/101435/2120240-mon_el__4_.jpg",
+    "occupation": "Superhero",
+    "location": "Earth"
+  },
+  {
+    "id": 15,
+    "name": "Skaar",
+    "image": "https://static.comicvine.com/uploads/scale_small/11/117763/3274127-wolverine04103.jpg",
+    "occupation": "Superhero",
+    "location": "Earth"
+  },
+  {
+    "id": 16,
+    "name": "Luke Cageƒ",
+    "image": "https://static.comicvine.com/uploads/scale_small/11111/111111230/3660907-lukecage1.png",
+    "occupation": "Superhero",
+    "location": "Earth"
+  }
+]
