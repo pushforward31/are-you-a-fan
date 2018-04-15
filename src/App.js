@@ -15,11 +15,15 @@ class App extends Component {
   removeFriend = id => {
     // Filter this.state.friends for friends with an id not equal to the id being removed
     const hero = this.state.heroes.filter(hero => hero.id === id);
-    if ( hero === )
+    if (hero === hero.id){
+      this.setState(this.getInitialState());
+
+    } else{
 
     console.log(hero);
     // Set this.state.friends equal to the new friends array
     this.setState({ heroes });
+  }
   };
 
   // Map over this.state.friends and render a HeroList component for each friend object
@@ -36,6 +40,7 @@ class App extends Component {
         {this.state.heroes.map(hero => (
           <HeroList
             removeFriend={this.removeFriend}
+            Counter={this.handleIncrement}
             id={hero.id}
             key={hero.id}
             name={hero.name}
