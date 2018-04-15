@@ -3,6 +3,7 @@ import HeroList from "./components/HeroList";
 import Wrapper from "./components/Wrapper";
 import Titlebox from "./components/Titlebox";
 import heroes from "./heroes.json";
+import Counter from "./components/Counter";
 import "./App.css";
 
 class App extends Component {
@@ -13,7 +14,7 @@ class App extends Component {
 
   removeFriend = id => {
     // Filter this.state.friends for friends with an id not equal to the id being removed
-    const heroes = this.state.heroes.map(hero => hero.id !== id);
+    const heroes = this.state.heroes.filter(hero => hero.id !== id);
     // Set this.state.friends equal to the new friends array
     this.setState({ heroes });
   };
@@ -25,6 +26,8 @@ class App extends Component {
         <Wrapper>
           <header className= "title">
             <Titlebox>Heroes List</Titlebox>
+            
+            
           </header>
 
         {this.state.heroes.map(hero => (

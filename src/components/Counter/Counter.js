@@ -22,18 +22,21 @@ class Counter extends React.Component {
   // The render method returns the JSX that should be rendered
   render() {
     return (
-      <div className="panel panel-primary">
-        <div className="panel-heading">Click Counter!</div>
-        <div className="panel-body text-center">
-          <p>Click Count: {this.state.count}</p>
-          <button className="btn btn-primary" onClick={this.handleIncrement}>
-            Increment
-          </button>{" "}
-          <button className="btn btn-danger" onClick={this.handleDecrement}>
-            Decrement
-          </button>
-        </div>
-      </div>
+      <h2 id = "Score"> Score: {this.state.count} | Highest Score : {this.state.count} </h2>
+
+
+      /// <div className="panel panel-primary">
+      //   <div className="panel-heading">Click Counter!</div>
+      //   <div className="panel-body text-center">
+      //     <p>Click Count: {this.state.count}</p>
+      //     <button className="btn btn-primary" onClick={this.handleIncrement}>
+      //       Increment
+      //     </button>{" "}
+      //     <button className="btn btn-danger" onClick={this.handleDecrement}>
+      //       Decrement
+      //     </button>
+      //   </div>
+      // </div>
     );
   }
 }
