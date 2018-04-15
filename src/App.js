@@ -14,7 +14,10 @@ class App extends Component {
 
   removeFriend = id => {
     // Filter this.state.friends for friends with an id not equal to the id being removed
-    const heroes = this.state.heroes.filter(hero => hero.id !== id);
+    const hero = this.state.heroes.filter(hero => hero.id === id);
+    if ( hero === )
+
+    console.log(hero);
     // Set this.state.friends equal to the new friends array
     this.setState({ heroes });
   };
